@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px auto;
+    background-color:#222;
+}
+
+.contents {
+	display: flex;
+	display: -webkit-flex;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	width: 360px;
+	height: 360px;
+}
+
+
+.content_text {
+	display: block;
+	width: 280px;
+	font-weight:bold;
+	font-size:2em;
+	text-align: center;
+	color:#fff;
+}
