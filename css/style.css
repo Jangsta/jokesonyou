@@ -19,9 +19,41 @@ body {
 
 .content_text {
 	display: block;
-	width: 280px;
+	width: 300px;
 	font-weight:bold;
 	font-size:2em;
 	text-align: center;
 	color:#fff;
+	margin-top: 5px;
+}
+
+#textbox2 {
+	display: inline-block;
+	width: 150px;
+	margin-top: 10px;
+}
+
+#textbox2 a {
+	color: white;
+	text-decoration: none;
+}
+
+#textbox3 {
+	display: inline-block;
+	width: 150px;
+	margin-top: 10px;
+}
+
+#textbox3 a {
+	color: white;
+	text-decoration: none;
+}
+
+#textbox4{
+		margin-top: 70px;
+}
+
+#textbox4 a {
+	color: white;
+	text-decoration: none;
 }

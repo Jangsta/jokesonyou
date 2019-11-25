@@ -1,1 +1,0 @@
-alert('number of jokes: ' + jokes.length);
